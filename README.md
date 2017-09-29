@@ -1,4 +1,4 @@
-# Project Title
+# PROLOG Schedule generator.
 
 A schedule generator for universities implemented using PROLOG
 
